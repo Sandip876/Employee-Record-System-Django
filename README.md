@@ -1,2 +1,2 @@
-# Todo_Django_Prj
-To-Do project, built using Django, is a task management application that allows users to create, update, and delete tasks. It features user authentication, task prioritization, and deadline tracking. The backend is powered by Django's ORM, ensuring efficient data handling, while the frontend uses HTML and CSS for a clean interface.
+# Employee-Record-System-Django
+The Employee Record System, built with Django, manages employee data, including personal details, job roles, and performance. It features CRUD operations, a secure admin interface, and user-friendly authentication.
